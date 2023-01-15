@@ -66,8 +66,4 @@ DATA, Cód. Contabil Débito, Cód. Contabil Crédito, Valor, Cód. Histórico =
 
 4. Nome final do arquivo
 
-<<<<<<< HEAD
-Fazer dois arquivos: Fiscal_NomeDaEmpresa em csv.
-=======
-Fazer dois arquivos: Fiscal_NomeDaEmpresa em csv.
->>>>>>> e4380c2e5fa652039ee33836e8ffc09c5883c32e
+Fiscal_NomeDaEmpresa em csv.
