@@ -1,11 +1,18 @@
-# Compilador de arquivos em Excel
+<h1 align="center"> Compilador de arquivos Excel </h1>
+
+![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877715-b372d926-68e9-489d-8119-519771998955.png)
+
 Compilador de arquivos em excel de um projeto individual de automação
 
-A ideia central do projeto é construir um código que une arquivos do excel em um único arquivo final grande demais para ser aberto no computador. Esse arquivo final é necessário para ser importado em um sistema que irá o ler. 
+A ideia central do projeto transformar em arquivos legíveis por um sistema específico através de arquivos em excel que exigem tratamento prévio.
+Esse tratamento acaba por levar muito tempo por conta do tamanho dos arquivos e da manualidade do processo. 
+Logo, tem-se como objetivo diminuir o tempo de processamento desses dados.
 
-O código tem algumas ideias centrais necessárias para a ideia central para a pessoa que usuaria o código:
+Antes de construir o arquivo final, deve-se tratar os dados de acordo com as seguintes condições:
 
-1. Soma de formulário = Vendas PDV 
+1. Somar todas os 'Formulários' cujo valor é Vendas PDV de acordo com: 'Empresa', 'Movimento' das abas do arquivo 'Fiscal_(NomeDaEmpresa)' 
+
+
 
 Abrir a base e somar valor contábil e ICMS crédito/débito que são de "Formulário: Venda PDV" na mesma data de "Movimento" e da mesma "Empresa".
 
