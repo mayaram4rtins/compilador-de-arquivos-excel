@@ -7,7 +7,7 @@
 ![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877765-4869a8c0-a992-4dca-8648-46b432a871f5.png)
 
 <p align="center">
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+(* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -18,7 +18,7 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Conclusão](#conclusão)>
 </p>
 
 Compilador de arquivos em excel de um projeto individual de automação
