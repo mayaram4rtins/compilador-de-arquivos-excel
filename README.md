@@ -7,9 +7,9 @@ O código tem algumas ideias centrais necessárias para a ideia central para a p
 
 1. Soma de formulário = Vendas PDV 
 
-Abrir a base e somar valor contábil e ICMS crédito/débito que são de "Formulário: Venda PDV" na mesma data de "Movimento" e da mesma "Empresa".
+    1.1. Abrir a base e somar valor contábil e ICMS crédito/débito que são de "Formulário: Venda PDV" na mesma data de "Movimento" e da mesma "Empresa".
 
-Em seguida, abrir a coluna de PIS DÉBITO e COFINS DÉBITO e somar tudo que tiver "Formulário: {vazio}" na mesma data de "Movimento" e da mesma "Empresa".
+    1.2. Em seguida, abrir a coluna de PIS DÉBITO e COFINS DÉBITO e somar tudo que tiver "Formulário: {vazio}" na mesma data de "Movimento" e da mesma "Empresa".
 
 Paga arquivos diferentes de Vendas PDV, trazer valores individualizados
 
