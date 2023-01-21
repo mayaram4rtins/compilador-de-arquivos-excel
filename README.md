@@ -6,8 +6,7 @@
 
 ![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877765-4869a8c0-a992-4dca-8648-46b432a871f5.png)
 
-<p align="center">
-<* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -18,10 +17,14 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)>
-* </p>
+* [Conclusão](#conclusão)
 
 Compilador de arquivos em excel de um projeto individual de automação
+
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Diminuição do tempo de processamento dos dados
+- `Funcionalidade 2`: Tratamento dos dados
 
 A ideia central do projeto transformar em arquivos legíveis por um sistema específico através de arquivos em excel que exigem tratamento prévio.
 Esse tratamento acaba por levar muito tempo por conta do tamanho dos arquivos e da manualidade do processo. 
