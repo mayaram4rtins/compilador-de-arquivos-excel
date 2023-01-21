@@ -1,11 +1,42 @@
-# Compilador de arquivos em Excel
-Compilador de arquivos em excel de um projeto individual de automação
+<h1 align="center"> Compilador de arquivos Excel </h1>
 
-A ideia central do projeto é construir um código que une arquivos do excel em um único arquivo final grande demais para ser aberto no computador. Esse arquivo final é necessário para ser importado em um sistema que irá o ler. 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-O código tem algumas ideias centrais necessárias para a ideia central para a pessoa que usuaria o código:
+![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877765-4869a8c0-a992-4dca-8648-46b432a871f5.png)
 
-1. Soma de formulário = Vendas PDV 
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+# :page_facing_up: Descrição do projeto
+
+A ideia central do projeto transformar em arquivos legíveis por um sistema específico através de arquivos em excel que exigem tratamento prévio.
+Esse tratamento acaba por levar muito tempo por conta do tamanho dos arquivos e da manualidade do processo. 
+Logo, tem-se como objetivo diminuir o tempo de processamento desses dados.
+
+# :desktop_computer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Diminuição do tempo de processamento dos dados
+- `Funcionalidade 2`: Tratamento dos dados
+
+# :hammer: Construção do projeto
+
+Antes de construir o arquivo final, deve-se tratar os dados de acordo com as seguintes condições:
+
+1. Somar todas os 'Formulários' cujo valor é Vendas PDV de acordo com: 'Empresa', 'Movimento' das abas do arquivo 'Fiscal_(NomeDaEmpresa)' 
+
+
 
     1.1. Abrir a base e somar valor contábil e ICMS crédito/débito que são de "Formulário: Venda PDV" na mesma data de "Movimento" e da mesma "Empresa".
 
