@@ -19,16 +19,18 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-Compilador de arquivos em excel de um projeto individual de automação
-
-# :hammer: Funcionalidades do projeto
-
-- `Funcionalidade 1`: Diminuição do tempo de processamento dos dados
-- `Funcionalidade 2`: Tratamento dos dados
+# :page_facing_up: Descrição do projeto
 
 A ideia central do projeto transformar em arquivos legíveis por um sistema específico através de arquivos em excel que exigem tratamento prévio.
 Esse tratamento acaba por levar muito tempo por conta do tamanho dos arquivos e da manualidade do processo. 
 Logo, tem-se como objetivo diminuir o tempo de processamento desses dados.
+
+# :desktop_computer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Diminuição do tempo de processamento dos dados
+- `Funcionalidade 2`: Tratamento dos dados
+
+# :hammer: Construção do projeto
 
 Antes de construir o arquivo final, deve-se tratar os dados de acordo com as seguintes condições:
 
