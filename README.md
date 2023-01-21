@@ -1,6 +1,27 @@
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+
 <h1 align="center"> Compilador de arquivos Excel </h1>
 
-![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877715-b372d926-68e9-489d-8119-519771998955.png)
+![Compilador-de-arquivos-excel](https://user-images.githubusercontent.com/91706209/213877765-4869a8c0-a992-4dca-8648-46b432a871f5.png)
+
+* [Badges](#badges)
+* 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
 Compilador de arquivos em excel de um projeto individual de automação
 
