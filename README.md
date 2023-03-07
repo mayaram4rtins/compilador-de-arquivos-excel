@@ -1,6 +1,6 @@
-# 🗃️ Título e Imagem de Capa
 
-<h1 align="center"> Compilador de arquivos Excel </h1>
+
+ <h1 align="center"> 🗃️ Compilador de arquivos Excel </h1>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -10,17 +10,13 @@
 
 # :pushpin: Índice
 
-* [Título e Imagem de capa](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#card-box-file-título-e-imagem-de-capa)
+* [Título e Imagem de capa](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#-compilador-de-arquivos-excel-)
 * [Índice](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#pushpin-índice)
-* [Descrição do Projeto](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#hammer-construção-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Descrição do Projeto](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#page_facing_up-descrição-do-projeto)
+* [Funcionalidades do Projeto](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#desktop_computer-funcionalidades-do-projeto)
+* [Ferramentas e Linguagens Utilizadas](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#snake-ferramentas-e-linguagem-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Construção do Projeto](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#hammer-construção-do-projeto)
 
 # :page_facing_up: Descrição do projeto
 
