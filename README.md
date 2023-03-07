@@ -1,3 +1,5 @@
+# 🗃️ Título e Imagem de Capa
+
 <h1 align="center"> Compilador de arquivos Excel </h1>
 
 <p align="center">
@@ -8,8 +10,7 @@
 
 # :pushpin: Índice
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
+* [Título e Imagem de capa](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#card-box-file-título-e-imagem-de-capa)
 * [Índice](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#pushpin-índice)
 * [Descrição do Projeto](https://github.com/mayaram4rtins/compilador-de-arquivos-excel#hammer-construção-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
